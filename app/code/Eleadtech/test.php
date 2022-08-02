@@ -1,4 +1,4 @@
 <?php
-function testabc(){
+function abcde(){
     echo "sss222";
 }

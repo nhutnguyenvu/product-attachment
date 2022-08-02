@@ -12,7 +12,7 @@
     "version": "2.1.2",
     "autoload": {
         "psr-4": {
-            "Product\\Attachment\\Testing\\": ""
+            "Eleadtech\\": "app/code"
         }
     }
 }

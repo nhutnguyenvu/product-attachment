@@ -9,8 +9,10 @@
     "license": [
         "proprietary"
     ],
-    "version": "2.1.0",
+    "version": "2.1.1",
     "autoload": {
-        "files": ["test.php"]
+        "psr-4": {
+            "Alphabet\\Option\\Testing": ""
+        }
     }
 }
